@@ -1,24 +1,6 @@
-# README
+# Rails_QandA
+https://takumapp-test-01.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 得られたもの
+- 開発環境の構築から開発、デプロイの開発の流れ
+- ruby and railsを使用したCRUD昨日の実装
